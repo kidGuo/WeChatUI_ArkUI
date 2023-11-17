@@ -1,4 +1,4 @@
-# WeChatUI_ArkUI
+# WeChatUI_Arkts
 鸿蒙原生Arkts搭建的微信UI
 
 
